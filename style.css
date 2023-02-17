@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+}
+
+#title1 {
+    display: flex;
+    justify-content: center;
+    color: gray;
+    background-color: violet;
+}
+
+#paragrafo1 {
+    color: white;
+    background-color: blueviolet;
+    border: 2px solid black;
+    border-radius: 5px 5px;
+    font-size: 25px;
+}
+
+.diferente {
+    color: rgb(14, 194, 23);
+    background-color: rgb(43, 226, 226);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
